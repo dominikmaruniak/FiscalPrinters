@@ -1,0 +1,29 @@
+{
+  "id": "b220ba17-fd37-441b-982f-eef94f3a870a",
+  "name": "FiscalPrinters",
+  "publisher": "EIP Softart",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Implementation of Fiscal Frinters to BC Cloud",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
