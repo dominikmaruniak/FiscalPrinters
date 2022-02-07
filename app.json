@@ -2,7 +2,7 @@
   "id": "b220ba17-fd37-441b-982f-eef94f3a870a",
   "name": "FiscalPrinters",
   "publisher": "EIP Softart sp. z o.o.",
-  "version": "1.0.0.0",
+  "version": "1.0.0.11",
   "brief": "",
   "description": "Implementation of Fiscal Frinters to BC Cloud",
   "privacyStatement": "",
@@ -16,7 +16,7 @@
   "application": "19.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
+      "from": 50050,
       "to": 50149
     }
   ],
